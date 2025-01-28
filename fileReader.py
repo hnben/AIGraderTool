@@ -10,6 +10,14 @@ df = pd.read_csv('CAPSTONE TEST.csv')
 # Access specific columns
 print(df[['name', 'id', 'score', 'n correct' , 'n incorrect']])
 
+#print(df.info())
+# question1 = df.iloc[:, 9]
+# question2 = df.iloc[:,11]
+# question3 = df.iloc[:, 13]
+# print(question1)
+# print(question2)
+# print(question3)
+
 
 # calculate the average score
 average_score = df['score'].mean()
