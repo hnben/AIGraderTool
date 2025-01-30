@@ -1,0 +1,8 @@
+name,id,sis_id,root_account,section_id,section_sis_id,submitted,attempt,"Question 1: 178498142: No more than 2-3 sentences
+Pick a game of your choosing (board game, card game, video game, etc.). Think of two clear metrics you might be effective as rewards or penalties for an RL agent being trained to play this game. Briefly justify why you think each metric might be effective.","Question 2: 178498161: No more than 2-3 sentences
+For the game you picked in question #1, provide an example that clearly illustrates a situation where it might be beneficial for your agent to prioritize exploration over exploitation. Briefly explain your reasoning.","Question 3: 178498165: No more than 2-3 sentences
+List 2 potential challenges with implementing an RL agent for the game you chose in question #1. Briefly explain the problem / concern that each present."
+StudentName,1.0,,egator.greenriver.edu,2624654.0,2247_12958_,2024-11-26 20:16:57 UTC,1.0,0,0,0
+StudentName,2.0,,egator.greenriver.edu,2624654.0,2247_12958_,2024-11-26 20:17:01 UTC,1.0,2,1,1
+StudentName,3.0,,egator.greenriver.edu,2624654.0,2247_12958_,2024-11-26 20:15:55 UTC,1.0,3,3,3
+,,,,,,,,,,
